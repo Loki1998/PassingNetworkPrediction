@@ -1,0 +1,75 @@
+MatchID: 2014307
+Position  AS Roma             PFC CSKA Moskva
+GK-GK     0                   0
+GK-STR    0                   0
+GK-DEF    13                  7
+GK-MID    8                   4
+STR-GK    0                   0
+STR-STR   18                  8
+STR-DEF   32                  7
+STR-MID   50                  18
+DEF-GK    9                   4
+DEF-STR   42                  14
+DEF-DEF   54                  39
+DEF-MID   118                 56
+MID-GK    4                   2
+MID-STR   67                  31
+MID-DEF   112                 41
+MID-MID   154                 57
+
+MatchID: 2014332
+Position  FC Bayern München  PFC CSKA Moskva
+GK-GK     0                   0
+GK-STR    3                   2
+GK-DEF    22                  9
+GK-MID    4                   7
+STR-GK    0                   0
+STR-STR   33                  2
+STR-DEF   53                  2
+STR-MID   27                  8
+DEF-GK    18                  8
+DEF-STR   74                  7
+DEF-DEF   324                 24
+DEF-MID   129                 40
+MID-GK    0                   0
+MID-STR   38                  10
+MID-DEF   118                 40
+MID-MID   21                  32
+
+MatchID: 2014347
+Position  Manchester City FC  PFC CSKA Moskva
+GK-GK     0                   0
+GK-STR    0                   0
+GK-DEF    13                  5
+GK-MID    4                   7
+STR-GK    0                   0
+STR-STR   4                   6
+STR-DEF   18                  7
+STR-MID   36                  15
+DEF-GK    10                  9
+DEF-STR   20                  9
+DEF-DEF   50                  58
+DEF-MID   125                 107
+MID-GK    3                   0
+MID-STR   45                  24
+MID-DEF   105                 102
+MID-MID   154                 125
+
+MatchID: 2014355
+Position  Manchester City FC  PFC CSKA Moskva
+GK-GK     0                   0
+GK-STR    1                   1
+GK-DEF    10                  7
+GK-MID    3                   5
+STR-GK    0                   0
+STR-STR   5                   8
+STR-DEF   11                  8
+STR-MID   38                  15
+DEF-GK    7                   5
+DEF-STR   24                  16
+DEF-DEF   66                  44
+DEF-MID   152                 58
+MID-GK    0                   0
+MID-STR   46                  28
+MID-DEF   131                 49
+MID-MID   120                 86

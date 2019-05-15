@@ -1,0 +1,40 @@
+# scoring situations
+1, goals scored
+2, open play
+3, penalty
+4, direct from free-kick
+5, total attempts
+6, on target
+7, off target
+8, assists
+9, corners
+10, offsides
+11, saves
+
+# time and distance
+12, total time played (minutes)
+13, ball possession
+14, distance covered (metres)
+
+# discipline
+15, yellow cards
+16, red cards
+17, fouls committed
+
+# passing and solo runs
+18, passes attempted
+19, long
+20, medium
+21, short
+22, passes completed
+23, long
+24, medium
+25, short
+26, passes completion rate
+27, long
+28, medium
+29, short
+30, delivery/solo runs
+31, into the attacking third
+32, into the key area
+33, into the penalty area

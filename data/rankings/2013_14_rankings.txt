@@ -1,0 +1,32 @@
+1, Real Madrid CF
+2, FC Barcelona
+3, FC Bayern München
+4, Chelsea FC
+5, SL Benfica
+7, Club Atlético de Madrid
+9, Arsenal FC
+10, FC Porto
+14, FC Schalke 04
+15, Borussia Dortmund
+16, Juventus
+17, Paris Saint-Germain
+18, FC Shakhtar Donetsk
+20, FC Basel 1893
+21, Football Club Zenit
+22, Manchester City FC
+24, Bayer 04 Leverkusen
+27, Olympiacos FC
+28, PFC CSKA Moskva
+30, AFC Ajax
+32, Liverpool FC
+33, Sporting Clube de Portugal
+36, Galatasaray AŞ
+37, Athletic Club
+44, RSC Anderlecht
+55, AS Roma
+61, APOEL FC
+65, FC BATE Borisov
+104, PFC Ludogorets Razgrad
+120, NK Maribor
+233, Malmö FF
+454, AS Monaco FC

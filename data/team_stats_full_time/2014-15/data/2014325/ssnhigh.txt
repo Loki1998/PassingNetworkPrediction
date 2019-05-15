@@ -1,0 +1,33 @@
+1	2	6 Porto
+16	23	27 Sporting
+5	8	12 Porto
+8	7	13 Dortmund
+3	8	10 Bayern
+1	0	2 Porto
+5	5	10 Maribor
+8	4	12 Bayern
+4	7	8 Leverkusen
+
+
+0 0 0
+0 0 0
+114182	119593	123647 Dortmund
+
+3	3	6 Juventus
+0	0	1 Arsenal
+9	22	28 Juventus
+8	16	26 Atlético Madrid
+534	565	925 Bayern
+118	120	223 Bayern
+354	381	645 Bayern
+62	64	81 Real Madrid
+470	489	864 Bayern
+97	91	198 Bayern
+330	349	620 Bayern
+43	49	70 Schalke
+0.91	0.91	0.98 Ajax
+0.89	0.96	0.100 Ajax
+0.93	0.92	0.96 Bayern
+0.84	0.77	0.100 Ajax
+36/11	52/14	101/35
+26/10	28/14	72/32

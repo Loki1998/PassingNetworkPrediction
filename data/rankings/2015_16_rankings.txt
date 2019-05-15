@@ -1,0 +1,32 @@
+Malmö FF	96
+Paris Saint-Germain	9
+FC Shakhtar Donetsk	22
+Real Madrid CF	1
+PFC CSKA Moskva	35
+VfL Wolfsburg	48
+Manchester United FC	19
+PSV Eindhoven	37
+Club Atlético de Madrid	5
+Galatasaray AŞ	28
+FC Astana	155
+SL Benfica	6
+Juventus	8
+Manchester City FC	16
+Sevilla FC	20
+VfL Borussia Mönchengladbach	49
+Bayer 04 Leverkusen	18
+FC BATE Borisov	62
+AS Roma	57
+FC Barcelona	3
+Arsenal FC	10
+GNK Dinamo Zagreb	79
+FC Bayern München	2
+Olympiacos FC	21
+FC Dynamo Kyiv	30
+FC Porto	11
+Chelsea FC	4
+Maccabi Tel-Aviv FC	92
+FC Zenit	14
+Valencia CF	13
+KAA Gent	113
+Olympique Lyonnais	26

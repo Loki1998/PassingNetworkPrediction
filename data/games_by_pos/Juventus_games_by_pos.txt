@@ -1,0 +1,227 @@
+MatchID: 2014316
+Position  Juventus            Malmö FF
+GK-GK     0                   0
+GK-STR    0                   0
+GK-DEF    17                  10
+GK-MID    1                   0
+STR-GK    0                   0
+STR-STR   12                  0
+STR-DEF   41                  3
+STR-MID   27                  7
+DEF-GK    12                  9
+DEF-STR   45                  6
+DEF-DEF   114                 10
+DEF-MID   106                 25
+MID-GK    0                   3
+MID-STR   31                  7
+MID-DEF   93                  34
+MID-MID   19                  29
+
+MatchID: 2014324
+Position  Club Atlético de Madrid  Juventus
+GK-GK     0                   0
+GK-STR    0                   0
+GK-DEF    5                   14
+GK-MID    1                   2
+STR-GK    0                   0
+STR-STR   0                   11
+STR-DEF   0                   19
+STR-MID   5                   17
+DEF-GK    2                   8
+DEF-STR   0                   25
+DEF-DEF   16                  153
+DEF-MID   43                  65
+MID-GK    0                   1
+MID-STR   7                   20
+MID-DEF   43                  74
+MID-MID   66                  22
+
+MatchID: 2014340
+Position  Juventus            Olympiacos FC
+GK-GK     0                   0
+GK-STR    0                   0
+GK-DEF    10                  10
+GK-MID    8                   1
+STR-GK    0                   0
+STR-STR   16                  0
+STR-DEF   11                  2
+STR-MID   23                  10
+DEF-GK    7                   12
+DEF-STR   22                  7
+DEF-DEF   54                  36
+DEF-MID   86                  48
+MID-GK    4                   0
+MID-STR   39                  7
+MID-DEF   68                  55
+MID-MID   61                  40
+
+MatchID: 2014364
+Position  Juventus            Olympiacos FC
+GK-GK     0                   0
+GK-STR    1                   1
+GK-DEF    9                   12
+GK-MID    8                   3
+STR-GK    0                   0
+STR-STR   12                  0
+STR-DEF   5                   6
+STR-MID   25                  13
+DEF-GK    3                   10
+DEF-STR   18                  5
+DEF-DEF   40                  41
+DEF-MID   100                 70
+MID-GK    2                   1
+MID-STR   38                  14
+MID-DEF   95                  69
+MID-MID   146                 50
+
+MatchID: 2014372
+Position   Juventus             Malmö FF
+GK-GK      0                    0
+GK-STR     1                    7
+GK-DEF     24                   8
+GK-MID     6                    5
+STR-GK     0                    0
+STR-STR    3                    4
+STR-DEF    12                   5
+STR-MID    33                   20
+DEF-GK     6                    11
+DEF-STR    19                   14
+DEF-DEF    21                   27
+DEF-MID    105                  54
+MID-GK     3                    4
+MID-STR    46                   22
+MID-DEF    89                   59
+MID-MID    139                  36
+
+MatchID: 2014396
+Position   Club Atlético de Madrid  Juventus
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     4                    11
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    0                    4
+STR-DEF    2                    24
+STR-MID    4                    26
+DEF-GK     4                    11
+DEF-STR    2                    23
+DEF-DEF    16                   173
+DEF-MID    49                   145
+MID-GK     0                    1
+MID-STR    5                    33
+MID-DEF    53                   143
+MID-MID    60                   48
+
+MatchID: 2014408
+Position   Borussia Dortmund    Juventus
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     2                    10
+GK-MID     7                    6
+STR-GK     0                    0
+STR-STR    24                   5
+STR-DEF    12                   8
+STR-MID    42                   15
+DEF-GK     7                    7
+DEF-STR    23                   23
+DEF-DEF    45                   67
+DEF-MID    47                   60
+MID-GK     3                    1
+MID-STR    49                   18
+MID-DEF    59                   64
+MID-MID    69                   44
+
+MatchID: 2014418
+Position   Borussia Dortmund    Juventus
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     3                    22
+GK-MID     1                    1
+STR-GK     0                    0
+STR-STR    4                    9
+STR-DEF    8                    15
+STR-MID    28                   20
+DEF-GK     6                    5
+DEF-STR    13                   24
+DEF-DEF    63                   76
+DEF-MID    88                   75
+MID-GK     0                    3
+MID-STR    31                   24
+MID-DEF    89                   75
+MID-MID    75                   43
+
+MatchID: 2014422
+Position   AS Monaco FC         Juventus
+GK-GK      0                    0
+GK-STR     3                    0
+GK-DEF     12                   20
+GK-MID     2                    8
+STR-GK     0                    0
+STR-STR    8                    10
+STR-DEF    13                   27
+STR-MID    19                   37
+DEF-GK     8                    12
+DEF-STR    21                   30
+DEF-DEF    42                   65
+DEF-MID    38                   112
+MID-GK     0                    0
+MID-STR    26                   47
+MID-DEF    35                   93
+MID-MID    33                   73
+
+MatchID: 2014424
+Position   AS Monaco FC         Juventus
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     11                   7
+GK-MID     3                    8
+STR-GK     0                    0
+STR-STR    5                    6
+STR-DEF    16                   16
+STR-MID    24                   29
+DEF-GK     16                   4
+DEF-STR    19                   20
+DEF-DEF    62                   38
+DEF-MID    73                   60
+MID-GK     1                    1
+MID-STR    32                   42
+MID-DEF    84                   61
+MID-MID    55                   18
+
+MatchID: 2014427
+Position   Juventus             Real Madrid CF
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     14                   16
+GK-MID     10                   4
+STR-GK     0                    0
+STR-STR    8                    6
+STR-DEF    18                   14
+STR-MID    21                   15
+DEF-GK     8                    8
+DEF-STR    23                   22
+DEF-DEF    57                   125
+DEF-MID    96                   108
+MID-GK     2                    0
+MID-STR    33                   18
+MID-DEF    77                   96
+MID-MID    33                   45
+
+MatchID: 2014430
+Position   Juventus             Real Madrid CF
+GK-GK      0                    0
+GK-STR     4                    1
+GK-DEF     13                   9
+GK-MID     7                    3
+STR-GK     0                    0
+STR-STR    9                    8
+STR-DEF    12                   12
+STR-MID    31                   25
+DEF-GK     5                    3
+DEF-STR    24                   25
+DEF-DEF    43                   62
+DEF-MID    67                   113
+MID-GK     3                    1
+MID-STR    35                   29
+MID-DEF    61                   101
+MID-MID    54                   67

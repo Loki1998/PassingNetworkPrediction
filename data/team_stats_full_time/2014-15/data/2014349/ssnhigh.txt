@@ -1,0 +1,35 @@
+1	3	7 Bayern
+7	14	27 Sporting
+1	5	14 Shakhtar Donetsk
+2	6	13 Dortmund
+4	4	10 Bayern
+0	0	2 Porto
+5	2	10 Maribor
+4	6	12 Bayern
+3	4	8 Leverkusen
+
+
+0 0 0
+0 0 0
+122085	114972	123654 Dortmund
+
+2	3	6 Juventus
+0	0	1 Sporting
+14	9	28 Juventus
+17	14	26 Atlético Madrid
+369	651	925 Bayern
+92	160	223 Bayern
+239	443	645 Bayern
+42	48	83 Porto
+320	607	864 Bayern
+71	150	198 Bayern
+223	417	620 Bayern
+26	40	70 Schalke
+87%	93%	98% Ajax
+80%	94%	100% Ajax
+94%	94%	96% Bayern
+100%	83%	100% Ajax
+32/9	59/23	101/35
+26/7	27/22	72/32
+7/5	12/7	22/16
+

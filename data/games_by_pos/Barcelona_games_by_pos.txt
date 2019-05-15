@@ -1,0 +1,75 @@
+MatchID: 2014309
+Position  APOEL FC            FC Barcelona
+GK-GK     0                   0
+GK-STR    4                   1
+GK-DEF    6                   10
+GK-MID    0                   4
+STR-GK    0                   0
+STR-STR   6                   28
+STR-DEF   9                   35
+STR-MID   15                  50
+DEF-GK    6                   4
+DEF-STR   8                   45
+DEF-DEF   16                  75
+DEF-MID   49                  145
+MID-GK    1                   3
+MID-STR   29                  77
+MID-DEF   36                  135
+MID-MID   28                  88
+
+MatchID: 2014333
+Position  FC Barcelona        Paris Saint-Germain
+GK-GK     0                   0
+GK-STR    1                   0
+GK-DEF    14                  8
+GK-MID    6                   7
+STR-GK    0                   0
+STR-STR   28                  0
+STR-DEF   40                  3
+STR-MID   51                  12
+DEF-GK    8                   10
+DEF-STR   70                  2
+DEF-DEF   101                 44
+DEF-MID   100                 80
+MID-GK    0                   1
+MID-STR   50                  18
+MID-DEF   109                 77
+MID-MID   49                  92
+
+MatchID: 2014350
+Position  AFC Ajax            FC Barcelona
+GK-GK     0                   0
+GK-STR    1                   2
+GK-DEF    17                  21
+GK-MID    1                   1
+STR-GK    0                   0
+STR-STR   12                  28
+STR-DEF   15                  39
+STR-MID   20                  29
+DEF-GK    14                  20
+DEF-STR   24                  51
+DEF-DEF   71                  173
+DEF-MID   41                  66
+MID-GK    2                   0
+MID-STR   34                  30
+MID-DEF   37                  77
+MID-MID   19                  7
+
+MatchID: 2014358
+Position  AFC Ajax            FC Barcelona
+GK-GK     0                   0
+GK-STR    0                   1
+GK-DEF    20                  22
+GK-MID    1                   3
+STR-GK    1                   0
+STR-STR   8                   24
+STR-DEF   16                  33
+STR-MID   24                  40
+DEF-GK    21                  19
+DEF-STR   23                  48
+DEF-DEF   65                  107
+DEF-MID   50                  87
+MID-GK    1                   4
+MID-STR   25                  57
+MID-DEF   45                  96
+MID-MID   19                  61

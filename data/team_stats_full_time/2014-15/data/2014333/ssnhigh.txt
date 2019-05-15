@@ -1,0 +1,33 @@
+3	2	6 Porto
+14	17	27 Sporting
+5	6	12 Porto
+5	7	13 Dortmund
+4	6	10 Bayern
+0	1	2 Porto
+2	2	10 Maribor
+6	8	12 Bayern
+4	2	6 Maribor
+
+
+0 0 0
+0 0 0
+110976	114445	120848 Ludogorets
+
+3	1	5 Shakhtar Donetsk
+0	0	1 Benfica
+9	15	22 Liverpool
+14	12	22 Ludogorets
+496	760	925 Bayern
+146	184	223 Bayern
+307	520	645 Bayern
+44	64	81 Real Madrid
+442	700	864 Bayern
+123	152	198 Bayern
+289	499	620 Bayern
+33	52	70 Schalke
+91%	92%	98% Ajax
+89%	91%	100% Ajax
+94%	96%	96% Bayern
+75%	88%	100% Ajax
+29/18	90/35	101/35
+18/10	72/32	72/32

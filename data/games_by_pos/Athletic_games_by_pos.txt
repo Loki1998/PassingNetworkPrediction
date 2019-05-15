@@ -1,0 +1,75 @@
+MatchID: 2014314
+Position  Athletic Club       FC Shakhtar Donetsk
+GK-GK     0                   0
+GK-STR    0                   1
+GK-DEF    15                  24
+GK-MID    4                   11
+STR-GK    0                   0
+STR-STR   0                   4
+STR-DEF   0                   25
+STR-MID   13                  19
+DEF-GK    8                   30
+DEF-STR   8                   20
+DEF-DEF   28                  77
+DEF-MID   49                  50
+MID-GK    5                   3
+MID-STR   10                  12
+MID-DEF   35                  52
+MID-MID   120                 45
+
+MatchID: 2014338
+Position  Athletic Club       FC BATE Borisov
+GK-GK     0                   0
+GK-STR    1                   7
+GK-DEF    13                  10
+GK-MID    13                  1
+STR-GK    0                   0
+STR-STR   2                   1
+STR-DEF   3                   2
+STR-MID   11                  12
+DEF-GK    10                  6
+DEF-STR   7                   5
+DEF-DEF   82                  28
+DEF-MID   76                  43
+MID-GK    2                   1
+MID-STR   16                  16
+MID-DEF   62                  47
+MID-MID   76                  48
+
+MatchID: 2014354
+Position  Athletic Club       FC Porto
+GK-GK     0                   0
+GK-STR    1                   3
+GK-DEF    15                  20
+GK-MID    5                   1
+STR-GK    1                   0
+STR-STR   1                   20
+STR-DEF   2                   19
+STR-MID   18                  34
+DEF-GK    14                  14
+DEF-STR   9                   36
+DEF-DEF   34                  56
+DEF-MID   47                  50
+MID-GK    4                   4
+MID-STR   19                  39
+MID-DEF   43                  52
+MID-MID   81                  34
+
+MatchID: 2014362
+Position  Athletic Club       FC Porto
+GK-GK     0                   0
+GK-STR    2                   4
+GK-DEF    3                   10
+GK-MID    3                   0
+STR-GK    0                   0
+STR-STR   1                   4
+STR-DEF   10                  14
+STR-MID   10                  14
+DEF-GK    17                  9
+DEF-STR   12                  28
+DEF-DEF   79                  47
+DEF-MID   49                  43
+MID-GK    3                   5
+MID-STR   9                   22
+MID-DEF   31                  48
+MID-MID   43                  40

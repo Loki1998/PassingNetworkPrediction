@@ -1,0 +1,40 @@
+#attacking
+1, goals scored
+2, total attempts
+3, on target
+4, off target
+5, blocked
+6, woodwork
+7, saves
+8, corners
+9, offsides
+
+# time and distance
+10, total time played (min)
+11, ball possession
+12, distance covered (mt)
+
+# discipline
+13, yellow cards
+14, red cards
+15, fouls committed
+16, fouls suffered
+
+# passing
+17, passes attempted
+18, short passes attempted
+19, medium passes attempted
+20, long passes attempted
+21, passes completed
+22, short passes completed
+23, medium passes completed
+24, long passes completed
+25, pass completion rate
+26, short pass completion rate
+27, medium pass completion rate
+28, long pass completion rate
+
+# delivery/solo runs
+29, into the attacking third
+30, into the key area
+31, into the penalty area

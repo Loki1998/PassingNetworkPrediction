@@ -1,0 +1,2232 @@
+MatchID: 2014307
+Position   AS Roma              PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     13                   7
+GK-MID     8                    4
+STR-GK     0                    0
+STR-STR    18                   8
+STR-DEF    32                   7
+STR-MID    50                   18
+DEF-GK     9                    4
+DEF-STR    42                   14
+DEF-DEF    54                   39
+DEF-MID    118                  56
+MID-GK     4                    2
+MID-STR    67                   31
+MID-DEF    112                  41
+MID-MID    154                  57
+MatchID: 2014308
+Position   FC Bayern München  Manchester City FC
+GK-GK      0                    0
+GK-STR     0                    6
+GK-DEF     31                   12
+GK-MID     0                    5
+STR-GK     0                    0
+STR-STR    4                    0
+STR-DEF    28                   5
+STR-MID    9                    19
+DEF-GK     20                   10
+DEF-STR    55                   6
+DEF-DEF    218                  37
+DEF-MID    72                   67
+MID-GK     1                    1
+MID-STR    13                   18
+MID-DEF    79                   72
+MID-MID    12                   117
+MatchID: 2014309
+Position   APOEL FC             FC Barcelona
+GK-GK      0                    0
+GK-STR     4                    1
+GK-DEF     6                    10
+GK-MID     0                    4
+STR-GK     0                    0
+STR-STR    6                    28
+STR-DEF    9                    35
+STR-MID    15                   50
+DEF-GK     6                    4
+DEF-STR    8                    45
+DEF-DEF    16                   75
+DEF-MID    49                   145
+MID-GK     1                    3
+MID-STR    29                   77
+MID-DEF    36                   135
+MID-MID    28                   88
+MatchID: 2014310
+Position   AFC Ajax             Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     18                   23
+GK-MID     3                    1
+STR-GK     0                    0
+STR-STR    2                    7
+STR-DEF    26                   23
+STR-MID    20                   28
+DEF-GK     11                   13
+DEF-STR    33                   23
+DEF-DEF    112                  50
+DEF-MID    82                   73
+MID-GK     0                    1
+MID-STR    25                   45
+MID-DEF    82                   67
+MID-MID    50                   87
+MatchID: 2014311
+Position   Chelsea FC           FC Schalke 04
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     7                    3
+GK-MID     3                    17
+STR-GK     0                    0
+STR-STR    1                    2
+STR-DEF    6                    4
+STR-MID    10                   11
+DEF-GK     5                    4
+DEF-STR    7                    5
+DEF-DEF    53                   16
+DEF-MID    100                  68
+MID-GK     2                    17
+MID-STR    14                   14
+MID-DEF    87                   66
+MID-MID    118                  186
+MatchID: 2014312
+Position   NK Maribor           Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     2                    4
+GK-DEF     2                    12
+GK-MID     6                    3
+STR-GK     0                    0
+STR-STR    0                    13
+STR-DEF    4                    30
+STR-MID    14                   41
+DEF-GK     7                    7
+DEF-STR    3                    44
+DEF-DEF    8                    43
+DEF-MID    39                   46
+MID-GK     4                    1
+MID-STR    13                   52
+MID-DEF    32                   56
+MID-MID    77                   47
+MatchID: 2014313
+Position   FC BATE Borisov      FC Porto
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     13                   18
+GK-MID     1                    4
+STR-GK     0                    0
+STR-STR    0                    20
+STR-DEF    7                    40
+STR-MID    10                   30
+DEF-GK     12                   16
+DEF-STR    5                    43
+DEF-DEF    19                   126
+DEF-MID    45                   83
+MID-GK     4                    3
+MID-STR    12                   51
+MID-DEF    42                   76
+MID-MID    55                   39
+MatchID: 2014314
+Position   Athletic Club        FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     15                   24
+GK-MID     4                    11
+STR-GK     0                    0
+STR-STR    0                    4
+STR-DEF    0                    25
+STR-MID    13                   19
+DEF-GK     8                    30
+DEF-STR    8                    20
+DEF-DEF    28                   77
+DEF-MID    49                   50
+MID-GK     5                    3
+MID-STR    10                   12
+MID-DEF    35                   52
+MID-MID    120                  45
+MatchID: 2014315
+Position   Club Atlético de Madrid Olympiacos FC
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     6                    11
+GK-MID     1                    3
+STR-GK     0                    0
+STR-STR    0                    0
+STR-DEF    2                    12
+STR-MID    11                   5
+DEF-GK     2                    12
+DEF-STR    10                   9
+DEF-DEF    38                   53
+DEF-MID    91                   52
+MID-GK     0                    1
+MID-STR    9                    13
+MID-DEF    83                   48
+MID-MID    123                  40
+MatchID: 2014316
+Position   Juventus             Malmö FF
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     17                   10
+GK-MID     1                    0
+STR-GK     0                    0
+STR-STR    12                   0
+STR-DEF    41                   3
+STR-MID    27                   7
+DEF-GK     12                   9
+DEF-STR    45                   6
+DEF-DEF    114                  10
+DEF-MID    106                  25
+MID-GK     0                    3
+MID-STR    31                   7
+MID-DEF    93                   34
+MID-MID    19                   29
+MatchID: 2014317
+Position   Liverpool FC         PFC Ludogorets 1945
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     23                   14
+GK-MID     6                    2
+STR-GK     0                    0
+STR-STR    3                    3
+STR-DEF    8                    15
+STR-MID    19                   21
+DEF-GK     22                   11
+DEF-STR    10                   28
+DEF-DEF    47                   18
+DEF-MID    113                  34
+MID-GK     3                    1
+MID-STR    21                   19
+MID-DEF    106                  47
+MID-MID    107                  39
+MatchID: 2014318
+Position   FC Basel 1893        Real Madrid CF
+GK-GK      0                    0
+GK-STR     1                    3
+GK-DEF     21                   20
+GK-MID     8                    5
+STR-GK     0                    0
+STR-STR    8                    5
+STR-DEF    6                    15
+STR-MID    28                   27
+DEF-GK     10                   13
+DEF-STR    15                   19
+DEF-DEF    56                   88
+DEF-MID    86                   108
+MID-GK     3                    1
+MID-STR    41                   38
+MID-DEF    72                   94
+MID-MID    115                  93
+MatchID: 2014319
+Position   AS Monaco FC         Bayer 04 Leverkusen
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     10                   12
+GK-MID     0                    1
+STR-GK     0                    0
+STR-STR    9                    5
+STR-DEF    10                   11
+STR-MID    23                   34
+DEF-GK     7                    10
+DEF-STR    18                   11
+DEF-DEF    20                   28
+DEF-MID    27                   45
+MID-GK     0                    2
+MID-STR    29                   22
+MID-DEF    45                   39
+MID-MID    31                   47
+MatchID: 2014320
+Position   Football Club Zenit  SL Benfica
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     16                   9
+GK-MID     5                    10
+STR-GK     0                    0
+STR-STR    5                    2
+STR-DEF    11                   4
+STR-MID    20                   14
+DEF-GK     9                    7
+DEF-STR    11                   10
+DEF-DEF    86                   52
+DEF-MID    122                  86
+MID-GK     0                    0
+MID-STR    34                   15
+MID-DEF    101                  72
+MID-MID    101                  53
+MatchID: 2014321
+Position   Galatasaray AŞ     RSC Anderlecht
+GK-GK      0                    0
+GK-STR     1                    5
+GK-DEF     18                   5
+GK-MID     4                    2
+STR-GK     0                    1
+STR-STR    6                    35
+STR-DEF    4                    17
+STR-MID    14                   68
+DEF-GK     10                   6
+DEF-STR    5                    28
+DEF-DEF    81                   8
+DEF-MID    84                   13
+MID-GK     0                    2
+MID-STR    24                   61
+MID-DEF    67                   17
+MID-MID    87                   43
+MatchID: 2014322
+Position   Arsenal FC           Borussia Dortmund
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     18                   13
+GK-MID     7                    1
+STR-GK     0                    1
+STR-STR    1                    22
+STR-DEF    12                   32
+STR-MID    18                   16
+DEF-GK     10                   9
+DEF-STR    17                   34
+DEF-DEF    34                   36
+DEF-MID    81                   49
+MID-GK     3                    0
+MID-STR    25                   35
+MID-DEF    67                   38
+MID-MID    67                   13
+MatchID: 2014323
+Position   Malmö FF           Olympiacos FC
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     14                   24
+GK-MID     0                    4
+STR-GK     0                    0
+STR-STR    3                    0
+STR-DEF    4                    3
+STR-MID    12                   6
+DEF-GK     7                    10
+DEF-STR    7                    4
+DEF-DEF    27                   107
+DEF-MID    53                   135
+MID-GK     2                    2
+MID-STR    15                   7
+MID-DEF    52                   117
+MID-MID    30                   71
+MatchID: 2014324
+Position   Club Atlético de Madrid Juventus
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     5                    14
+GK-MID     1                    2
+STR-GK     0                    0
+STR-STR    0                    11
+STR-DEF    0                    19
+STR-MID    5                    17
+DEF-GK     2                    8
+DEF-STR    0                    25
+DEF-DEF    16                   153
+DEF-MID    43                   65
+MID-GK     0                    1
+MID-STR    7                    20
+MID-DEF    43                   74
+MID-MID    66                   22
+MatchID: 2014325
+Position   FC Basel 1893        Liverpool FC
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     6                    12
+GK-MID     13                   6
+STR-GK     1                    0
+STR-STR    16                   2
+STR-DEF    2                    3
+STR-MID    37                   7
+DEF-GK     6                    11
+DEF-STR    9                    8
+DEF-DEF    24                   19
+DEF-MID    53                   62
+MID-GK     5                    4
+MID-STR    54                   9
+MID-DEF    52                   59
+MID-MID    113                  91
+MatchID: 2014326
+Position   PFC Ludogorets 1945  Real Madrid CF
+GK-GK      0                    0
+GK-STR     2                    1
+GK-DEF     6                    9
+GK-MID     4                    5
+STR-GK     0                    0
+STR-STR    8                    6
+STR-DEF    12                   10
+STR-MID    19                   21
+DEF-GK     8                    6
+DEF-STR    21                   13
+DEF-DEF    15                   78
+DEF-MID    47                   92
+MID-GK     1                    0
+MID-STR    19                   38
+MID-DEF    45                   91
+MID-MID    35                   97
+MatchID: 2014327
+Position   AS Monaco FC         Football Club Zenit
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     14                   9
+GK-MID     1                    5
+STR-GK     0                    0
+STR-STR    9                    9
+STR-DEF    16                   9
+STR-MID    26                   19
+DEF-GK     8                    6
+DEF-STR    15                   19
+DEF-DEF    32                   53
+DEF-MID    59                   112
+MID-GK     5                    0
+MID-STR    32                   26
+MID-DEF    60                   98
+MID-MID    73                   71
+MatchID: 2014328
+Position   Bayer 04 Leverkusen  SL Benfica
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     8                    21
+GK-MID     0                    4
+STR-GK     1                    0
+STR-STR    9                    2
+STR-DEF    10                   8
+STR-MID    25                   13
+DEF-GK     16                   15
+DEF-STR    18                   18
+DEF-DEF    24                   112
+DEF-MID    26                   69
+MID-GK     0                    2
+MID-STR    22                   11
+MID-DEF    23                   46
+MID-MID    44                   15
+MatchID: 2014329
+Position   Arsenal FC           Galatasaray AŞ
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     10                   6
+GK-MID     0                    2
+STR-GK     0                    0
+STR-STR    0                    3
+STR-DEF    8                    5
+STR-MID    19                   27
+DEF-GK     7                    6
+DEF-STR    12                   10
+DEF-DEF    36                   30
+DEF-MID    51                   78
+MID-GK     1                    3
+MID-STR    20                   26
+MID-DEF    44                   69
+MID-MID    92                   107
+MatchID: 2014330
+Position   Borussia Dortmund    RSC Anderlecht
+GK-GK      0                    0
+GK-STR     2                    4
+GK-DEF     10                   19
+GK-MID     1                    7
+STR-GK     1                    4
+STR-STR    12                   33
+STR-DEF    7                    15
+STR-MID    28                   29
+DEF-GK     7                    15
+DEF-STR    21                   21
+DEF-DEF    47                   27
+DEF-MID    81                   47
+MID-GK     3                    4
+MID-STR    39                   49
+MID-DEF    89                   51
+MID-MID    56                   31
+MatchID: 2014331
+Position   AS Roma              Manchester City FC
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     15                   16
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    2                    5
+STR-DEF    10                   6
+STR-MID    27                   27
+DEF-GK     11                   8
+DEF-STR    15                   16
+DEF-DEF    15                   88
+DEF-MID    53                   106
+MID-GK     2                    2
+MID-STR    33                   27
+MID-DEF    52                   99
+MID-MID    72                   123
+MatchID: 2014332
+Position   FC Bayern München  PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     3                    2
+GK-DEF     22                   9
+GK-MID     4                    7
+STR-GK     0                    0
+STR-STR    33                   2
+STR-DEF    53                   2
+STR-MID    27                   8
+DEF-GK     18                   8
+DEF-STR    74                   7
+DEF-DEF    324                  24
+DEF-MID    129                  40
+MID-GK     0                    0
+MID-STR    38                   10
+MID-DEF    118                  40
+MID-MID    21                   32
+MatchID: 2014333
+Position   FC Barcelona         Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     14                   8
+GK-MID     6                    7
+STR-GK     0                    0
+STR-STR    28                   0
+STR-DEF    40                   3
+STR-MID    51                   12
+DEF-GK     8                    10
+DEF-STR    70                   2
+DEF-DEF    101                  44
+DEF-MID    100                  80
+MID-GK     0                    1
+MID-STR    50                   18
+MID-DEF    109                  77
+MID-MID    49                   92
+MatchID: 2014334
+Position   AFC Ajax             APOEL FC
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     19                   8
+GK-MID     1                    0
+STR-GK     0                    1
+STR-STR    5                    1
+STR-DEF    19                   4
+STR-MID    20                   14
+DEF-GK     12                   13
+DEF-STR    44                   4
+DEF-DEF    262                  29
+DEF-MID    66                   40
+MID-GK     0                    3
+MID-STR    21                   12
+MID-DEF    59                   50
+MID-MID    26                   55
+MatchID: 2014335
+Position   Chelsea FC           Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     6                    11
+GK-MID     2                    6
+STR-GK     0                    0
+STR-STR    1                    15
+STR-DEF    13                   16
+STR-MID    23                   31
+DEF-GK     4                    10
+DEF-STR    14                   18
+DEF-DEF    30                   18
+DEF-MID    54                   38
+MID-GK     1                    3
+MID-STR    37                   47
+MID-DEF    44                   41
+MID-MID    91                   32
+MatchID: 2014336
+Position   FC Schalke 04        NK Maribor
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     7                    3
+GK-MID     14                   3
+STR-GK     1                    0
+STR-STR    4                    2
+STR-DEF    16                   4
+STR-MID    31                   12
+DEF-GK     9                    7
+DEF-STR    19                   7
+DEF-DEF    44                   16
+DEF-MID    107                  49
+MID-GK     5                    1
+MID-STR    35                   6
+MID-DEF    100                  43
+MID-MID    87                   67
+MatchID: 2014337
+Position   FC Porto             FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     18                   17
+GK-MID     1                    0
+STR-GK     0                    0
+STR-STR    23                   1
+STR-DEF    33                   9
+STR-MID    38                   12
+DEF-GK     14                   13
+DEF-STR    43                   11
+DEF-DEF    96                   41
+DEF-MID    84                   28
+MID-GK     0                    1
+MID-STR    45                   12
+MID-DEF    78                   31
+MID-MID    62                   21
+MatchID: 2014338
+Position   Athletic Club        FC BATE Borisov
+GK-GK      0                    0
+GK-STR     1                    7
+GK-DEF     13                   10
+GK-MID     13                   1
+STR-GK     0                    0
+STR-STR    2                    1
+STR-DEF    3                    2
+STR-MID    11                   12
+DEF-GK     10                   6
+DEF-STR    7                    5
+DEF-DEF    82                   28
+DEF-MID    76                   43
+MID-GK     2                    1
+MID-STR    16                   16
+MID-DEF    62                   47
+MID-MID    76                   48
+MatchID: 2014339
+Position   Club Atlético de Madrid Malmö FF
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     10                   9
+GK-MID     3                    1
+STR-GK     0                    0
+STR-STR    0                    8
+STR-DEF    1                    5
+STR-MID    17                   16
+DEF-GK     5                    6
+DEF-STR    6                    10
+DEF-DEF    23                   33
+DEF-MID    86                   82
+MID-GK     0                    3
+MID-STR    12                   15
+MID-DEF    81                   75
+MID-MID    152                  39
+MatchID: 2014340
+Position   Juventus             Olympiacos FC
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     10                   10
+GK-MID     8                    1
+STR-GK     0                    0
+STR-STR    16                   0
+STR-DEF    11                   2
+STR-MID    23                   10
+DEF-GK     7                    12
+DEF-STR    22                   7
+DEF-DEF    54                   36
+DEF-MID    86                   48
+MID-GK     4                    0
+MID-STR    39                   7
+MID-DEF    68                   55
+MID-MID    61                   40
+MatchID: 2014341
+Position   FC Basel 1893        PFC Ludogorets 1945
+GK-GK      0                    0
+GK-STR     2                    1
+GK-DEF     7                    14
+GK-MID     3                    10
+STR-GK     0                    1
+STR-STR    4                    6
+STR-DEF    4                    17
+STR-MID    19                   28
+DEF-GK     3                    12
+DEF-STR    9                    29
+DEF-DEF    27                   52
+DEF-MID    30                   99
+MID-GK     2                    0
+MID-STR    30                   37
+MID-DEF    32                   93
+MID-MID    33                   90
+MatchID: 2014342
+Position   Liverpool FC         Real Madrid CF
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     15                   9
+GK-MID     5                    2
+STR-GK     0                    0
+STR-STR    0                    18
+STR-DEF    4                    21
+STR-MID    10                   48
+DEF-GK     7                    4
+DEF-STR    2                    27
+DEF-DEF    34                   47
+DEF-MID    124                  101
+MID-GK     3                    2
+MID-STR    9                    65
+MID-DEF    104                  94
+MID-MID    181                  149
+MatchID: 2014343
+Position   Bayer 04 Leverkusen  Football Club Zenit
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     10                   15
+GK-MID     0                    1
+STR-GK     2                    0
+STR-STR    13                   1
+STR-DEF    19                   6
+STR-MID    33                   20
+DEF-GK     14                   12
+DEF-STR    26                   19
+DEF-DEF    20                   48
+DEF-MID    40                   49
+MID-GK     2                    4
+MID-STR    31                   15
+MID-DEF    32                   47
+MID-MID    30                   46
+MatchID: 2014344
+Position   AS Monaco FC         SL Benfica
+GK-GK      0                    0
+GK-STR     0                    4
+GK-DEF     7                    8
+GK-MID     0                    1
+STR-GK     0                    0
+STR-STR    4                    3
+STR-DEF    9                    14
+STR-MID    21                   10
+DEF-GK     11                   9
+DEF-STR    15                   11
+DEF-DEF    39                   89
+DEF-MID    39                   55
+MID-GK     0                    0
+MID-STR    22                   16
+MID-DEF    52                   31
+MID-MID    45                   13
+MatchID: 2014345
+Position   Arsenal FC           RSC Anderlecht
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     17                   3
+GK-MID     2                    2
+STR-GK     1                    4
+STR-STR    5                    23
+STR-DEF    13                   11
+STR-MID    20                   36
+DEF-GK     6                    13
+DEF-STR    24                   17
+DEF-DEF    63                   5
+DEF-MID    98                   14
+MID-GK     0                    3
+MID-STR    35                   46
+MID-DEF    91                   24
+MID-MID    90                   23
+MatchID: 2014346
+Position   Borussia Dortmund    Galatasaray AŞ
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     12                   17
+GK-MID     2                    3
+STR-GK     0                    1
+STR-STR    7                    3
+STR-DEF    23                   5
+STR-MID    31                   13
+DEF-GK     4                    6
+DEF-STR    28                   11
+DEF-DEF    52                   81
+DEF-MID    69                   112
+MID-GK     2                    3
+MID-STR    41                   7
+MID-DEF    58                   110
+MID-MID    87                   101
+MatchID: 2014347
+Position   Manchester City FC   PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     13                   5
+GK-MID     4                    7
+STR-GK     0                    0
+STR-STR    4                    6
+STR-DEF    18                   7
+STR-MID    36                   15
+DEF-GK     10                   9
+DEF-STR    20                   9
+DEF-DEF    50                   58
+DEF-MID    125                  107
+MID-GK     3                    0
+MID-STR    45                   24
+MID-DEF    105                  102
+MID-MID    154                  125
+MatchID: 2014348
+Position   AS Roma              FC Bayern München
+GK-GK      0                    0
+GK-STR     4                    1
+GK-DEF     14                   25
+GK-MID     5                    0
+STR-GK     0                    0
+STR-STR    15                   5
+STR-DEF    8                    55
+STR-MID    28                   28
+DEF-GK     13                   17
+DEF-STR    27                   65
+DEF-DEF    28                   148
+DEF-MID    36                   109
+MID-GK     3                    2
+MID-STR    32                   33
+MID-DEF    48                   101
+MID-MID    40                   23
+MatchID: 2014349
+Position   APOEL FC             Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     9                    10
+GK-MID     2                    1
+STR-GK     0                    0
+STR-STR    2                    3
+STR-DEF    2                    12
+STR-MID    17                   16
+DEF-GK     7                    2
+DEF-STR    10                   8
+DEF-DEF    54                   86
+DEF-MID    58                   146
+MID-GK     1                    0
+MID-STR    17                   23
+MID-DEF    59                   122
+MID-MID    81                   177
+MatchID: 2014350
+Position   AFC Ajax             FC Barcelona
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     17                   21
+GK-MID     1                    1
+STR-GK     0                    0
+STR-STR    12                   28
+STR-DEF    15                   39
+STR-MID    20                   29
+DEF-GK     14                   20
+DEF-STR    24                   51
+DEF-DEF    71                   173
+DEF-MID    41                   66
+MID-GK     2                    0
+MID-STR    34                   30
+MID-DEF    37                   77
+MID-MID    19                   7
+MatchID: 2014351
+Position   FC Schalke 04        Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     11                   6
+GK-MID     7                    0
+STR-GK     0                    0
+STR-STR    5                    20
+STR-DEF    16                   22
+STR-MID    28                   26
+DEF-GK     13                   2
+DEF-STR    28                   29
+DEF-DEF    35                   31
+DEF-MID    102                  19
+MID-GK     7                    1
+MID-STR    32                   28
+MID-DEF    111                  28
+MID-MID    104                  17
+MatchID: 2014352
+Position   Chelsea FC           NK Maribor
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     16                   6
+GK-MID     2                    4
+STR-GK     0                    0
+STR-STR    0                    2
+STR-DEF    5                    12
+STR-MID    8                    27
+DEF-GK     10                   6
+DEF-STR    7                    5
+DEF-DEF    102                  36
+DEF-MID    127                  87
+MID-GK     1                    1
+MID-STR    14                   24
+MID-DEF    106                  81
+MID-MID    131                  108
+MatchID: 2014353
+Position   FC BATE Borisov      FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     10                   21
+GK-MID     1                    6
+STR-GK     0                    0
+STR-STR    0                    1
+STR-DEF    2                    13
+STR-MID    9                    25
+DEF-GK     13                   17
+DEF-STR    8                    21
+DEF-DEF    34                   79
+DEF-MID    60                   97
+MID-GK     2                    1
+MID-STR    9                    22
+MID-DEF    49                   102
+MID-MID    74                   72
+MatchID: 2014354
+Position   Athletic Club        FC Porto
+GK-GK      0                    0
+GK-STR     1                    3
+GK-DEF     15                   20
+GK-MID     5                    1
+STR-GK     1                    0
+STR-STR    1                    20
+STR-DEF    2                    19
+STR-MID    18                   34
+DEF-GK     14                   14
+DEF-STR    9                    36
+DEF-DEF    34                   56
+DEF-MID    47                   50
+MID-GK     4                    4
+MID-STR    19                   39
+MID-DEF    43                   52
+MID-MID    81                   34
+MatchID: 2014355
+Position   Manchester City FC   PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     10                   7
+GK-MID     3                    5
+STR-GK     0                    0
+STR-STR    5                    8
+STR-DEF    11                   8
+STR-MID    38                   15
+DEF-GK     7                    5
+DEF-STR    24                   16
+DEF-DEF    66                   44
+DEF-MID    152                  58
+MID-GK     0                    0
+MID-STR    46                   28
+MID-DEF    131                  49
+MID-MID    120                  86
+MatchID: 2014356
+Position   AS Roma              FC Bayern München
+GK-GK      0                    0
+GK-STR     4                    0
+GK-DEF     3                    18
+GK-MID     5                    3
+STR-GK     0                    0
+STR-STR    8                    0
+STR-DEF    4                    10
+STR-MID    12                   9
+DEF-GK     10                   11
+DEF-STR    9                    22
+DEF-DEF    11                   231
+DEF-MID    34                   145
+MID-GK     6                    2
+MID-STR    24                   8
+MID-DEF    40                   123
+MID-MID    33                   39
+MatchID: 2014357
+Position   APOEL FC             Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     2                    11
+GK-MID     5                    4
+STR-GK     0                    1
+STR-STR    1                    4
+STR-DEF    7                    23
+STR-MID    16                   27
+DEF-GK     7                    10
+DEF-STR    5                    26
+DEF-DEF    43                   129
+DEF-MID    55                   170
+MID-GK     1                    3
+MID-STR    24                   31
+MID-DEF    55                   159
+MID-MID    52                   170
+MatchID: 2014358
+Position   AFC Ajax             FC Barcelona
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     20                   22
+GK-MID     1                    3
+STR-GK     1                    0
+STR-STR    8                    24
+STR-DEF    16                   33
+STR-MID    24                   40
+DEF-GK     21                   19
+DEF-STR    23                   48
+DEF-DEF    65                   107
+DEF-MID    50                   87
+MID-GK     1                    4
+MID-STR    25                   57
+MID-DEF    45                   96
+MID-MID    19                   61
+MatchID: 2014359
+Position   FC Schalke 04        Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     9                    7
+GK-MID     9                    3
+STR-GK     0                    1
+STR-STR    8                    13
+STR-DEF    19                   22
+STR-MID    22                   40
+DEF-GK     8                    6
+DEF-STR    23                   33
+DEF-DEF    42                   58
+DEF-MID    58                   28
+MID-GK     7                    1
+MID-STR    26                   39
+MID-DEF    58                   58
+MID-MID    37                   31
+MatchID: 2014360
+Position   Chelsea FC           NK Maribor
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     8                    4
+GK-MID     6                    2
+STR-GK     0                    0
+STR-STR    6                    9
+STR-DEF    18                   4
+STR-MID    20                   36
+DEF-GK     5                    4
+DEF-STR    6                    10
+DEF-DEF    75                   15
+DEF-MID    114                  25
+MID-GK     0                    1
+MID-STR    54                   42
+MID-DEF    75                   27
+MID-MID    131                  85
+MatchID: 2014361
+Position   FC BATE Borisov      FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     5                    9
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    0                    3
+STR-DEF    2                    21
+STR-MID    19                   37
+DEF-GK     7                    5
+DEF-STR    10                   29
+DEF-DEF    8                    79
+DEF-MID    29                   110
+MID-GK     2                    1
+MID-STR    13                   37
+MID-DEF    30                   111
+MID-MID    44                   134
+MatchID: 2014362
+Position   Athletic Club        FC Porto
+GK-GK      0                    0
+GK-STR     2                    4
+GK-DEF     3                    10
+GK-MID     3                    0
+STR-GK     0                    0
+STR-STR    1                    4
+STR-DEF    10                   14
+STR-MID    10                   14
+DEF-GK     17                   9
+DEF-STR    12                   28
+DEF-DEF    79                   47
+DEF-MID    49                   43
+MID-GK     3                    5
+MID-STR    9                    22
+MID-DEF    31                   48
+MID-MID    43                   40
+MatchID: 2014363
+Position   Club Atlético de Madrid Malmö FF
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     4                    10
+GK-MID     0                    5
+STR-GK     0                    0
+STR-STR    0                    2
+STR-DEF    0                    3
+STR-MID    7                    16
+DEF-GK     0                    5
+DEF-STR    3                    10
+DEF-DEF    10                   46
+DEF-MID    44                   78
+MID-GK     1                    3
+MID-STR    6                    16
+MID-DEF    55                   96
+MID-MID    98                   58
+MatchID: 2014364
+Position   Juventus             Olympiacos FC
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     9                    12
+GK-MID     8                    3
+STR-GK     0                    0
+STR-STR    12                   0
+STR-DEF    5                    6
+STR-MID    25                   13
+DEF-GK     3                    10
+DEF-STR    18                   5
+DEF-DEF    40                   41
+DEF-MID    100                  70
+MID-GK     2                    1
+MID-STR    38                   14
+MID-DEF    95                   69
+MID-MID    146                  50
+MatchID: 2014365
+Position   FC Basel 1893        PFC Ludogorets 1945
+GK-GK      0                    0
+GK-STR     3                    2
+GK-DEF     16                   8
+GK-MID     5                    3
+STR-GK     0                    1
+STR-STR    21                   3
+STR-DEF    12                   21
+STR-MID    43                   20
+DEF-GK     16                   10
+DEF-STR    24                   25
+DEF-DEF    57                   86
+DEF-MID    64                   78
+MID-GK     4                    4
+MID-STR    55                   26
+MID-DEF    58                   72
+MID-MID    106                  77
+MatchID: 2014366
+Position   Liverpool FC         Real Madrid CF
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     11                   16
+GK-MID     5                    3
+STR-GK     0                    0
+STR-STR    0                    23
+STR-DEF    8                    12
+STR-MID    10                   37
+DEF-GK     11                   10
+DEF-STR    10                   20
+DEF-DEF    38                   83
+DEF-MID    86                   124
+MID-GK     1                    1
+MID-STR    9                    60
+MID-DEF    88                   100
+MID-MID    130                  174
+MatchID: 2014367
+Position   Bayer 04 Leverkusen  Football Club Zenit
+GK-GK      0                    0
+GK-STR     2                    3
+GK-DEF     7                    23
+GK-MID     0                    5
+STR-GK     0                    0
+STR-STR    16                   6
+STR-DEF    11                   8
+STR-MID    22                   17
+DEF-GK     11                   17
+DEF-STR    16                   15
+DEF-DEF    15                   51
+DEF-MID    22                   56
+MID-GK     1                    3
+MID-STR    25                   27
+MID-DEF    17                   42
+MID-MID    23                   26
+MatchID: 2014368
+Position   AS Monaco FC         SL Benfica
+GK-GK      0                    0
+GK-STR     2                    1
+GK-DEF     3                    11
+GK-MID     1                    6
+STR-GK     0                    0
+STR-STR    9                    9
+STR-DEF    17                   7
+STR-MID    27                   32
+DEF-GK     5                    6
+DEF-STR    20                   17
+DEF-DEF    27                   42
+DEF-MID    29                   73
+MID-GK     3                    3
+MID-STR    35                   35
+MID-DEF    42                   66
+MID-MID    39                   49
+MatchID: 2014369
+Position   Arsenal FC           RSC Anderlecht
+GK-GK      0                    0
+GK-STR     1                    5
+GK-DEF     15                   4
+GK-MID     1                    2
+STR-GK     0                    2
+STR-STR    0                    27
+STR-DEF    8                    15
+STR-MID    24                   43
+DEF-GK     13                   3
+DEF-STR    14                   25
+DEF-DEF    77                   8
+DEF-MID    116                  19
+MID-GK     1                    2
+MID-STR    33                   44
+MID-DEF    101                  25
+MID-MID    89                   30
+MatchID: 2014370
+Position   Borussia Dortmund    Galatasaray AŞ
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     25                   18
+GK-MID     1                    8
+STR-GK     0                    0
+STR-STR    17                   0
+STR-DEF    22                   2
+STR-MID    24                   13
+DEF-GK     16                   15
+DEF-STR    22                   1
+DEF-DEF    71                   62
+DEF-MID    82                   72
+MID-GK     5                    1
+MID-STR    34                   19
+MID-DEF    74                   82
+MID-MID    47                   67
+MatchID: 2014371
+Position   Club Atlético de Madrid Olympiacos FC
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     12                   14
+GK-MID     1                    5
+STR-GK     0                    0
+STR-STR    0                    0
+STR-DEF    7                    0
+STR-MID    6                    5
+DEF-GK     8                    9
+DEF-STR    7                    4
+DEF-DEF    38                   62
+DEF-MID    121                  82
+MID-GK     2                    0
+MID-STR    14                   2
+MID-DEF    123                  86
+MID-MID    134                  79
+MatchID: 2014372
+Position   Juventus             Malmö FF
+GK-GK      0                    0
+GK-STR     1                    7
+GK-DEF     24                   8
+GK-MID     6                    5
+STR-GK     0                    0
+STR-STR    3                    4
+STR-DEF    12                   5
+STR-MID    33                   20
+DEF-GK     6                    11
+DEF-STR    19                   14
+DEF-DEF    21                   27
+DEF-MID    105                  54
+MID-GK     3                    4
+MID-STR    46                   22
+MID-DEF    89                   59
+MID-MID    139                  36
+MatchID: 2014373
+Position   Liverpool FC         PFC Ludogorets 1945
+GK-GK      0                    0
+GK-STR     5                    1
+GK-DEF     9                    10
+GK-MID     4                    6
+STR-GK     0                    0
+STR-STR    0                    1
+STR-DEF    5                    21
+STR-MID    18                   33
+DEF-GK     13                   4
+DEF-STR    5                    28
+DEF-DEF    38                   83
+DEF-MID    56                   72
+MID-GK     1                    1
+MID-STR    12                   36
+MID-DEF    61                   66
+MID-MID    130                  78
+MatchID: 2014374
+Position   FC Basel 1893        Real Madrid CF
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     10                   11
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    12                   11
+STR-DEF    13                   12
+STR-MID    37                   24
+DEF-GK     11                   5
+DEF-STR    29                   8
+DEF-DEF    33                   48
+DEF-MID    56                   87
+MID-GK     0                    3
+MID-STR    39                   45
+MID-DEF    58                   83
+MID-MID    63                   89
+MatchID: 2014375
+Position   AS Monaco FC         Bayer 04 Leverkusen
+GK-GK      0                    0
+GK-STR     5                    3
+GK-DEF     5                    10
+GK-MID     4                    1
+STR-GK     0                    0
+STR-STR    4                    11
+STR-DEF    7                    15
+STR-MID    15                   37
+DEF-GK     12                   12
+DEF-STR    15                   25
+DEF-DEF    25                   48
+DEF-MID    21                   84
+MID-GK     1                    2
+MID-STR    26                   53
+MID-DEF    33                   54
+MID-MID    31                   86
+MatchID: 2014376
+Position   Football Club Zenit  SL Benfica
+GK-GK      0                    0
+GK-STR     3                    1
+GK-DEF     5                    11
+GK-MID     4                    1
+STR-GK     0                    0
+STR-STR    5                    9
+STR-DEF    9                    15
+STR-MID    26                   26
+DEF-GK     6                    6
+DEF-STR    19                   16
+DEF-DEF    41                   49
+DEF-MID    33                   66
+MID-GK     1                    1
+MID-STR    33                   22
+MID-DEF    41                   44
+MID-MID    42                   27
+MatchID: 2014377
+Position   Galatasaray AŞ     RSC Anderlecht
+GK-GK      0                    0
+GK-STR     0                    6
+GK-DEF     10                   5
+GK-MID     4                    4
+STR-GK     0                    4
+STR-STR    0                    42
+STR-DEF    6                    34
+STR-MID    9                    44
+DEF-GK     4                    5
+DEF-STR    8                    42
+DEF-DEF    30                   17
+DEF-MID    96                   23
+MID-GK     2                    0
+MID-STR    13                   46
+MID-DEF    84                   29
+MID-MID    133                  18
+MatchID: 2014378
+Position   Arsenal FC           Borussia Dortmund
+GK-GK      0                    0
+GK-STR     3                    3
+GK-DEF     4                    20
+GK-MID     2                    3
+STR-GK     0                    0
+STR-STR    5                    9
+STR-DEF    10                   21
+STR-MID    25                   34
+DEF-GK     16                   20
+DEF-STR    18                   30
+DEF-DEF    34                   55
+DEF-MID    56                   83
+MID-GK     0                    7
+MID-STR    24                   37
+MID-DEF    75                   90
+MID-MID    56                   56
+MatchID: 2014379
+Position   AS Roma              PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     8                    9
+GK-MID     5                    1
+STR-GK     0                    1
+STR-STR    28                   2
+STR-DEF    11                   17
+STR-MID    68                   15
+DEF-GK     5                    9
+DEF-STR    19                   15
+DEF-DEF    31                   61
+DEF-MID    92                   81
+MID-GK     4                    0
+MID-STR    79                   29
+MID-DEF    77                   53
+MID-MID    120                  88
+MatchID: 2014380
+Position   FC Bayern München  Manchester City FC
+GK-GK      0                    0
+GK-STR     3                    0
+GK-DEF     27                   10
+GK-MID     9                    3
+STR-GK     0                    0
+STR-STR    12                   2
+STR-DEF    29                   6
+STR-MID    34                   15
+DEF-GK     25                   9
+DEF-STR    43                   17
+DEF-DEF    60                   77
+DEF-MID    118                  100
+MID-GK     9                    3
+MID-STR    34                   19
+MID-DEF    113                  93
+MID-MID    92                   103
+MatchID: 2014381
+Position   APOEL FC             FC Barcelona
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     3                    19
+GK-MID     3                    2
+STR-GK     0                    2
+STR-STR    5                    29
+STR-DEF    9                    83
+STR-MID    17                   42
+DEF-GK     5                    15
+DEF-STR    16                   120
+DEF-DEF    6                    232
+DEF-MID    31                   88
+MID-GK     3                    0
+MID-STR    15                   32
+MID-DEF    23                   99
+MID-MID    28                   11
+MatchID: 2014382
+Position   AFC Ajax             Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     17                   8
+GK-MID     2                    4
+STR-GK     0                    0
+STR-STR    35                   11
+STR-DEF    36                   29
+STR-MID    48                   31
+DEF-GK     9                    12
+DEF-STR    62                   26
+DEF-DEF    80                   64
+DEF-MID    69                   73
+MID-GK     1                    4
+MID-STR    48                   55
+MID-DEF    76                   65
+MID-MID    51                   42
+MatchID: 2014383
+Position   Chelsea FC           FC Schalke 04
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     9                    5
+GK-MID     8                    10
+STR-GK     0                    0
+STR-STR    1                    12
+STR-DEF    7                    31
+STR-MID    20                   30
+DEF-GK     6                    10
+DEF-STR    4                    33
+DEF-DEF    80                   72
+DEF-MID    162                  109
+MID-GK     1                    6
+MID-STR    30                   32
+MID-DEF    145                  101
+MID-MID    170                  54
+MatchID: 2014384
+Position   NK Maribor           Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     0                    3
+GK-DEF     10                   6
+GK-MID     5                    1
+STR-GK     0                    0
+STR-STR    9                    17
+STR-DEF    7                    26
+STR-MID    31                   34
+DEF-GK     10                   6
+DEF-STR    7                    45
+DEF-DEF    55                   73
+DEF-MID    55                   51
+MID-GK     3                    1
+MID-STR    24                   34
+MID-DEF    57                   64
+MID-MID    77                   33
+MatchID: 2014385
+Position   FC BATE Borisov      FC Porto
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     2                    8
+GK-MID     4                    0
+STR-GK     0                    0
+STR-STR    0                    4
+STR-DEF    1                    24
+STR-MID    9                    28
+DEF-GK     18                   10
+DEF-STR    2                    25
+DEF-DEF    16                   124
+DEF-MID    20                   106
+MID-GK     1                    2
+MID-STR    12                   38
+MID-DEF    30                   105
+MID-MID    62                   99
+MatchID: 2014386
+Position   Athletic Club        FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     2                    34
+GK-MID     6                    9
+STR-GK     0                    0
+STR-STR    2                    7
+STR-DEF    1                    26
+STR-MID    20                   16
+DEF-GK     6                    27
+DEF-STR    4                    27
+DEF-DEF    7                    87
+DEF-MID    44                   55
+MID-GK     6                    3
+MID-STR    31                   14
+MID-DEF    31                   60
+MID-MID    115                  47
+MatchID: 2014387
+Position   AS Roma              Manchester City FC
+GK-GK      0                    0
+GK-STR     0                    5
+GK-DEF     18                   5
+GK-MID     1                    2
+STR-GK     0                    0
+STR-STR    19                   0
+STR-DEF    31                   8
+STR-MID    43                   21
+DEF-GK     12                   4
+DEF-STR    49                   12
+DEF-DEF    54                   37
+DEF-MID    82                   74
+MID-GK     4                    1
+MID-STR    45                   18
+MID-DEF    83                   66
+MID-MID    63                   92
+MatchID: 2014388
+Position   FC Bayern München  PFC CSKA Moskva
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     23                   10
+GK-MID     9                    8
+STR-GK     0                    2
+STR-STR    5                    4
+STR-DEF    13                   4
+STR-MID    43                   17
+DEF-GK     15                   9
+DEF-STR    13                   8
+DEF-DEF    35                   27
+DEF-MID    148                  38
+MID-GK     4                    1
+MID-STR    75                   23
+MID-DEF    112                  33
+MID-MID    269                  58
+MatchID: 2014389
+Position   FC Barcelona         Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     0                    3
+GK-DEF     19                   4
+GK-MID     3                    1
+STR-GK     0                    0
+STR-STR    63                   6
+STR-DEF    53                   13
+STR-MID    47                   37
+DEF-GK     11                   6
+DEF-STR    63                   21
+DEF-DEF    147                  44
+DEF-MID    60                   72
+MID-GK     4                    1
+MID-STR    68                   32
+MID-DEF    45                   64
+MID-MID    30                   83
+MatchID: 2014390
+Position   AFC Ajax             APOEL FC
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     19                   6
+GK-MID     4                    4
+STR-GK     0                    0
+STR-STR    22                   0
+STR-DEF    39                   1
+STR-MID    40                   12
+DEF-GK     16                   10
+DEF-STR    72                   10
+DEF-DEF    267                  37
+DEF-MID    83                   46
+MID-GK     1                    2
+MID-STR    32                   7
+MID-DEF    94                   61
+MID-MID    25                   66
+MatchID: 2014391
+Position   Chelsea FC           Sporting Clube de Portugal
+GK-GK      0                    0
+GK-STR     7                    4
+GK-DEF     14                   5
+GK-MID     2                    1
+STR-GK     2                    2
+STR-STR    6                    32
+STR-DEF    19                   29
+STR-MID    33                   44
+DEF-GK     23                   4
+DEF-STR    27                   43
+DEF-DEF    74                   26
+DEF-MID    70                   37
+MID-GK     3                    0
+MID-STR    44                   58
+MID-DEF    68                   47
+MID-MID    68                   49
+MatchID: 2014392
+Position   FC Schalke 04        NK Maribor
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     10                   8
+GK-MID     5                    2
+STR-GK     0                    0
+STR-STR    4                    0
+STR-DEF    9                    3
+STR-MID    18                   26
+DEF-GK     8                    4
+DEF-STR    17                   15
+DEF-DEF    124                  40
+DEF-MID    93                   66
+MID-GK     4                    1
+MID-STR    25                   17
+MID-DEF    73                   73
+MID-MID    19                   121
+MatchID: 2014393
+Position   FC Porto             FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     20                   8
+GK-MID     2                    8
+STR-GK     3                    0
+STR-STR    98                   1
+STR-DEF    59                   2
+STR-MID    56                   13
+DEF-GK     18                   12
+DEF-STR    81                   6
+DEF-DEF    79                   18
+DEF-MID    33                   38
+MID-GK     2                    4
+MID-STR    55                   8
+MID-DEF    44                   50
+MID-MID    17                   91
+MatchID: 2014394
+Position   Athletic Club        FC BATE Borisov
+GK-GK      0                    0
+GK-STR     2                    2
+GK-DEF     13                   5
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    1                    1
+STR-DEF    6                    3
+STR-MID    15                   14
+DEF-GK     15                   10
+DEF-STR    5                    4
+DEF-DEF    95                   7
+DEF-MID    100                  26
+MID-GK     4                    2
+MID-STR    19                   20
+MID-DEF    76                   23
+MID-MID    88                   70
+MatchID: 2014395
+Position   Malmö FF           Olympiacos FC
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     15                   6
+GK-MID     6                    7
+STR-GK     0                    0
+STR-STR    0                    0
+STR-DEF    6                    7
+STR-MID    9                    12
+DEF-GK     10                   12
+DEF-STR    13                   6
+DEF-DEF    23                   55
+DEF-MID    56                   66
+MID-GK     2                    0
+MID-STR    10                   14
+MID-DEF    70                   67
+MID-MID    56                   43
+MatchID: 2014396
+Position   Club Atlético de Madrid Juventus
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     4                    11
+GK-MID     3                    2
+STR-GK     0                    0
+STR-STR    0                    4
+STR-DEF    2                    24
+STR-MID    4                    26
+DEF-GK     4                    11
+DEF-STR    2                    23
+DEF-DEF    16                   173
+DEF-MID    49                   145
+MID-GK     0                    1
+MID-STR    5                    33
+MID-DEF    53                   143
+MID-MID    60                   48
+MatchID: 2014397
+Position   FC Basel 1893        Liverpool FC
+GK-GK      0                    0
+GK-STR     3                    4
+GK-DEF     8                    17
+GK-MID     3                    3
+STR-GK     0                    0
+STR-STR    21                   0
+STR-DEF    6                    1
+STR-MID    42                   5
+DEF-GK     4                    12
+DEF-STR    18                   1
+DEF-DEF    18                   69
+DEF-MID    25                   103
+MID-GK     1                    2
+MID-STR    55                   6
+MID-DEF    21                   85
+MID-MID    60                   178
+MatchID: 2014398
+Position   PFC Ludogorets 1945  Real Madrid CF
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     12                   15
+GK-MID     6                    7
+STR-GK     1                    0
+STR-STR    2                    8
+STR-DEF    14                   13
+STR-MID    25                   44
+DEF-GK     3                    8
+DEF-STR    17                   17
+DEF-DEF    15                   42
+DEF-MID    82                   98
+MID-GK     2                    1
+MID-STR    28                   75
+MID-DEF    69                   72
+MID-MID    74                   163
+MatchID: 2014399
+Position   AS Monaco FC         Football Club Zenit
+GK-GK      0                    0
+GK-STR     3                    1
+GK-DEF     2                    9
+GK-MID     0                    3
+STR-GK     0                    0
+STR-STR    9                    3
+STR-DEF    5                    6
+STR-MID    24                   19
+DEF-GK     3                    10
+DEF-STR    10                   20
+DEF-DEF    14                   65
+DEF-MID    34                   83
+MID-GK     1                    0
+MID-STR    33                   31
+MID-DEF    47                   77
+MID-MID    58                   78
+MatchID: 2014400
+Position   Bayer 04 Leverkusen  SL Benfica
+GK-GK      0                    0
+GK-STR     1                    8
+GK-DEF     7                    1
+GK-MID     5                    6
+STR-GK     0                    1
+STR-STR    10                   64
+STR-DEF    12                   23
+STR-MID    32                   23
+DEF-GK     13                   13
+DEF-STR    10                   41
+DEF-DEF    31                   24
+DEF-MID    51                   23
+MID-GK     3                    2
+MID-STR    45                   44
+MID-DEF    34                   13
+MID-MID    57                   10
+MatchID: 2014401
+Position   Arsenal FC           Galatasaray AŞ
+GK-GK      0                    0
+GK-STR     4                    0
+GK-DEF     19                   9
+GK-MID     3                    4
+STR-GK     1                    0
+STR-STR    21                   3
+STR-DEF    23                   17
+STR-MID    66                   30
+DEF-GK     17                   5
+DEF-STR    33                   16
+DEF-DEF    47                   40
+DEF-MID    41                   74
+MID-GK     1                    5
+MID-STR    65                   31
+MID-DEF    42                   84
+MID-MID    35                   215
+MatchID: 2014402
+Position   Borussia Dortmund    RSC Anderlecht
+GK-GK      0                    0
+GK-STR     2                    1
+GK-DEF     10                   6
+GK-MID     2                    0
+STR-GK     0                    0
+STR-STR    8                    11
+STR-DEF    23                   21
+STR-MID    46                   19
+DEF-GK     6                    11
+DEF-STR    31                   37
+DEF-DEF    76                   48
+DEF-MID    114                  38
+MID-GK     4                    2
+MID-STR    56                   25
+MID-DEF    108                  44
+MID-MID    93                   26
+MatchID: 2014403
+Position   Chelsea FC           Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     0                    2
+GK-DEF     7                    11
+GK-MID     3                    0
+STR-GK     0                    0
+STR-STR    0                    7
+STR-DEF    2                    27
+STR-MID    14                   20
+DEF-GK     2                    8
+DEF-STR    3                    40
+DEF-DEF    49                   142
+DEF-MID    96                   95
+MID-GK     3                    1
+MID-STR    15                   27
+MID-DEF    90                   79
+MID-MID    103                  24
+MatchID: 2014404
+Position   FC Barcelona         Manchester City FC
+GK-GK      0                    0
+GK-STR     2                    1
+GK-DEF     12                   5
+GK-MID     1                    3
+STR-GK     0                    0
+STR-STR    31                   3
+STR-DEF    49                   5
+STR-MID    53                   15
+DEF-GK     7                    8
+DEF-STR    67                   14
+DEF-DEF    101                  46
+DEF-MID    79                   53
+MID-GK     2                    0
+MID-STR    53                   26
+MID-DEF    93                   57
+MID-MID    35                   56
+MatchID: 2014405
+Position   Arsenal FC           AS Monaco FC
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     10                   1
+GK-MID     1                    1
+STR-GK     0                    0
+STR-STR    2                    6
+STR-DEF    9                    21
+STR-MID    25                   30
+DEF-GK     7                    12
+DEF-STR    19                   23
+DEF-DEF    60                   55
+DEF-MID    89                   41
+MID-GK     1                    1
+MID-STR    33                   27
+MID-DEF    68                   54
+MID-MID    69                   39
+MatchID: 2014406
+Position   FC Basel 1893        FC Porto
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     11                   14
+GK-MID     4                    4
+STR-GK     0                    1
+STR-STR    3                    10
+STR-DEF    2                    19
+STR-MID    17                   28
+DEF-GK     10                   15
+DEF-STR    7                    34
+DEF-DEF    32                   99
+DEF-MID    46                   84
+MID-GK     2                    2
+MID-STR    22                   35
+MID-DEF    38                   86
+MID-MID    61                   72
+MatchID: 2014407
+Position   Bayer 04 Leverkusen  Club Atlético de Madrid
+GK-GK      0                    0
+GK-STR     2                    2
+GK-DEF     8                    2
+GK-MID     3                    1
+STR-GK     0                    0
+STR-STR    6                    0
+STR-DEF    12                   3
+STR-MID    45                   4
+DEF-GK     14                   0
+DEF-STR    22                   4
+DEF-DEF    44                   7
+DEF-MID    85                   27
+MID-GK     2                    1
+MID-STR    45                   11
+MID-DEF    81                   23
+MID-MID    76                   58
+MatchID: 2014408
+Position   Borussia Dortmund    Juventus
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     2                    10
+GK-MID     7                    6
+STR-GK     0                    0
+STR-STR    24                   5
+STR-DEF    12                   8
+STR-MID    42                   15
+DEF-GK     7                    7
+DEF-STR    23                   23
+DEF-DEF    45                   67
+DEF-MID    47                   60
+MID-GK     3                    1
+MID-STR    49                   18
+MID-DEF    59                   64
+MID-MID    69                   44
+MatchID: 2014409
+Position   FC Schalke 04        Real Madrid CF
+GK-GK      0                    0
+GK-STR     0                    3
+GK-DEF     5                    13
+GK-MID     4                    3
+STR-GK     0                    0
+STR-STR    2                    6
+STR-DEF    10                   17
+STR-MID    18                   21
+DEF-GK     5                    9
+DEF-STR    17                   28
+DEF-DEF    25                   106
+DEF-MID    44                   93
+MID-GK     2                    1
+MID-STR    16                   28
+MID-DEF    48                   83
+MID-MID    20                   28
+MatchID: 2014410
+Position   FC Bayern München  FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     2                    8
+GK-DEF     27                   15
+GK-MID     5                    2
+STR-GK     0                    1
+STR-STR    15                   3
+STR-DEF    26                   10
+STR-MID    25                   18
+DEF-GK     27                   25
+DEF-STR    32                   12
+DEF-DEF    96                   55
+DEF-MID    111                  40
+MID-GK     2                    2
+MID-STR    42                   19
+MID-DEF    89                   53
+MID-MID    78                   30
+MatchID: 2014411
+Position   Arsenal FC           AS Monaco FC
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     10                   3
+GK-MID     4                    0
+STR-GK     0                    0
+STR-STR    0                    2
+STR-DEF    17                   13
+STR-MID    31                   21
+DEF-GK     9                    5
+DEF-STR    25                   14
+DEF-DEF    91                   14
+DEF-MID    124                  36
+MID-GK     1                    1
+MID-STR    46                   38
+MID-DEF    97                   38
+MID-MID    97                   45
+MatchID: 2014412
+Position   FC Basel 1893        FC Porto
+GK-GK      0                    0
+GK-STR     6                    2
+GK-DEF     13                   7
+GK-MID     7                    2
+STR-GK     1                    1
+STR-STR    16                   8
+STR-DEF    4                    16
+STR-MID    57                   24
+DEF-GK     8                    13
+DEF-STR    20                   26
+DEF-DEF    40                   45
+DEF-MID    39                   64
+MID-GK     7                    3
+MID-STR    56                   28
+MID-DEF    46                   67
+MID-MID    64                   94
+MatchID: 2014413
+Position   Chelsea FC           Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     18                   9
+GK-MID     6                    4
+STR-GK     0                    0
+STR-STR    2                    4
+STR-DEF    9                    17
+STR-MID    30                   27
+DEF-GK     10                   7
+DEF-STR    14                   21
+DEF-DEF    82                   60
+DEF-MID    112                  110
+MID-GK     3                    2
+MID-STR    41                   31
+MID-DEF    90                   99
+MID-MID    119                  152
+MatchID: 2014414
+Position   FC Barcelona         Manchester City FC
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     16                   8
+GK-MID     2                    7
+STR-GK     0                    0
+STR-STR    32                   0
+STR-DEF    51                   2
+STR-MID    37                   15
+DEF-GK     11                   6
+DEF-STR    71                   7
+DEF-DEF    87                   28
+DEF-MID    63                   53
+MID-GK     1                    2
+MID-STR    53                   24
+MID-DEF    53                   55
+MID-MID    4                    103
+MatchID: 2014415
+Position   FC Schalke 04        Real Madrid CF
+GK-GK      0                    0
+GK-STR     1                    1
+GK-DEF     6                    13
+GK-MID     10                   5
+STR-GK     1                    0
+STR-STR    5                    8
+STR-DEF    5                    7
+STR-MID    19                   38
+DEF-GK     7                    12
+DEF-STR    6                    21
+DEF-DEF    20                   72
+DEF-MID    77                   73
+MID-GK     2                    1
+MID-STR    29                   40
+MID-DEF    64                   81
+MID-MID    155                  70
+MatchID: 2014416
+Position   FC Bayern München  FC Shakhtar Donetsk
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     18                   12
+GK-MID     1                    2
+STR-GK     1                    0
+STR-STR    4                    0
+STR-DEF    17                   6
+STR-MID    24                   9
+DEF-GK     9                    15
+DEF-STR    18                   9
+DEF-DEF    90                   27
+DEF-MID    154                  22
+MID-GK     3                    2
+MID-STR    44                   6
+MID-DEF    120                  31
+MID-MID    113                  29
+MatchID: 2014417
+Position   Bayer 04 Leverkusen  Club Atlético de Madrid
+GK-GK      0                    0
+GK-STR     5                    2
+GK-DEF     7                    0
+GK-MID     0                    1
+STR-GK     0                    0
+STR-STR    6                    3
+STR-DEF    7                    0
+STR-MID    30                   18
+DEF-GK     11                   3
+DEF-STR    13                   8
+DEF-DEF    29                   9
+DEF-MID    47                   50
+MID-GK     1                    0
+MID-STR    26                   14
+MID-DEF    36                   43
+MID-MID    68                   81
+MatchID: 2014418
+Position   Borussia Dortmund    Juventus
+GK-GK      0                    0
+GK-STR     1                    0
+GK-DEF     3                    22
+GK-MID     1                    1
+STR-GK     0                    0
+STR-STR    4                    9
+STR-DEF    8                    15
+STR-MID    28                   20
+DEF-GK     6                    5
+DEF-STR    13                   24
+DEF-DEF    63                   76
+DEF-MID    88                   75
+MID-GK     0                    3
+MID-STR    31                   24
+MID-DEF    89                   75
+MID-MID    75                   43
+MatchID: 2014419
+Position   FC Barcelona         Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     0                    0
+GK-DEF     16                   4
+GK-MID     5                    10
+STR-GK     0                    0
+STR-STR    23                   6
+STR-DEF    48                   11
+STR-MID    63                   25
+DEF-GK     10                   7
+DEF-STR    72                   20
+DEF-DEF    127                  37
+DEF-MID    100                  68
+MID-GK     1                    3
+MID-STR    71                   22
+MID-DEF    110                  63
+MID-MID    60                   71
+MatchID: 2014420
+Position   Club Atlético de Madrid Real Madrid CF
+GK-GK      0                    0
+GK-STR     7                    1
+GK-DEF     1                    5
+GK-MID     2                    3
+STR-GK     0                    0
+STR-STR    0                    13
+STR-DEF    4                    17
+STR-MID    15                   23
+DEF-GK     2                    5
+DEF-STR    4                    24
+DEF-DEF    3                    48
+DEF-MID    47                   117
+MID-GK     0                    1
+MID-STR    9                    31
+MID-DEF    44                   99
+MID-MID    98                   77
+MatchID: 2014421
+Position   FC Bayern München  FC Porto
+GK-GK      0                    0
+GK-STR     3                    1
+GK-DEF     23                   7
+GK-MID     3                    0
+STR-GK     1                    0
+STR-STR    4                    1
+STR-DEF    12                   14
+STR-MID    12                   13
+DEF-GK     23                   13
+DEF-STR    16                   16
+DEF-DEF    157                  32
+DEF-MID    109                  28
+MID-GK     5                    1
+MID-STR    23                   20
+MID-DEF    98                   39
+MID-MID    74                   33
+MatchID: 2014422
+Position   AS Monaco FC         Juventus
+GK-GK      0                    0
+GK-STR     3                    0
+GK-DEF     12                   20
+GK-MID     2                    8
+STR-GK     0                    0
+STR-STR    8                    10
+STR-DEF    13                   27
+STR-MID    19                   37
+DEF-GK     8                    12
+DEF-STR    21                   30
+DEF-DEF    42                   65
+DEF-MID    38                   112
+MID-GK     0                    0
+MID-STR    26                   47
+MID-DEF    35                   93
+MID-MID    33                   73
+MatchID: 2014423
+Position   FC Bayern München  FC Porto
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     18                   9
+GK-MID     3                    1
+STR-GK     0                    0
+STR-STR    12                   8
+STR-DEF    16                   10
+STR-MID    16                   37
+DEF-GK     21                   9
+DEF-STR    29                   20
+DEF-DEF    108                  25
+DEF-MID    66                   59
+MID-GK     4                    1
+MID-STR    26                   33
+MID-DEF    68                   61
+MID-MID    42                   81
+MatchID: 2014424
+Position   AS Monaco FC         Juventus
+GK-GK      0                    0
+GK-STR     1                    2
+GK-DEF     11                   7
+GK-MID     3                    8
+STR-GK     0                    0
+STR-STR    5                    6
+STR-DEF    16                   16
+STR-MID    24                   29
+DEF-GK     16                   4
+DEF-STR    19                   20
+DEF-DEF    62                   38
+DEF-MID    73                   60
+MID-GK     1                    1
+MID-STR    32                   42
+MID-DEF    84                   61
+MID-MID    55                   18
+MatchID: 2014425
+Position   FC Barcelona         Paris Saint-Germain
+GK-GK      0                    0
+GK-STR     2                    0
+GK-DEF     24                   12
+GK-MID     4                    5
+STR-GK     0                    0
+STR-STR    32                   9
+STR-DEF    54                   23
+STR-MID    54                   39
+DEF-GK     14                   12
+DEF-STR    71                   23
+DEF-DEF    72                   41
+DEF-MID    107                  91
+MID-GK     2                    0
+MID-STR    66                   43
+MID-DEF    111                  79
+MID-MID    57                   129
+MatchID: 2014426
+Position   Club Atlético de Madrid Real Madrid CF
+GK-GK      0                    0
+GK-STR     5                    2
+GK-DEF     1                    12
+GK-MID     3                    3
+STR-GK     0                    0
+STR-STR    0                    7
+STR-DEF    2                    12
+STR-MID    12                   20
+DEF-GK     2                    10
+DEF-STR    5                    28
+DEF-DEF    8                    131
+DEF-MID    33                   100
+MID-GK     1                    0
+MID-STR    9                    31
+MID-DEF    34                   83
+MID-MID    93                   41
+MatchID: 2014427
+Position   Juventus             Real Madrid CF
+GK-GK      0                    0
+GK-STR     0                    1
+GK-DEF     14                   16
+GK-MID     10                   4
+STR-GK     0                    0
+STR-STR    8                    6
+STR-DEF    18                   14
+STR-MID    21                   15
+DEF-GK     8                    8
+DEF-STR    23                   22
+DEF-DEF    57                   125
+DEF-MID    96                   108
+MID-GK     2                    0
+MID-STR    33                   18
+MID-DEF    77                   96
+MID-MID    33                   45
+MatchID: 2014428
+Position   FC Barcelona         FC Bayern München
+GK-GK      0                    0
+GK-STR     2                    2
+GK-DEF     21                   22
+GK-MID     3                    7
+STR-GK     0                    0
+STR-STR    28                   9
+STR-DEF    14                   18
+STR-MID    30                   11
+DEF-GK     16                   25
+DEF-STR    44                   22
+DEF-DEF    33                   75
+DEF-MID    52                   98
+MID-GK     2                    3
+MID-STR    33                   24
+MID-DEF    60                   99
+MID-MID    37                   73
+MatchID: 2014429
+Position   FC Barcelona         FC Bayern München
+GK-GK      0                    0
+GK-STR     4                    1
+GK-DEF     30                   19
+GK-MID     3                    4
+STR-GK     0                    0
+STR-STR    34                   9
+STR-DEF    34                   20
+STR-MID    30                   14
+DEF-GK     25                   14
+DEF-STR    57                   27
+DEF-DEF    55                   96
+DEF-MID    38                   104
+MID-GK     1                    4
+MID-STR    28                   25
+MID-DEF    54                   107
+MID-MID    25                   82
+MatchID: 2014430
+Position   Juventus             Real Madrid CF
+GK-GK      0                    0
+GK-STR     4                    1
+GK-DEF     13                   9
+GK-MID     7                    3
+STR-GK     0                    0
+STR-STR    9                    8
+STR-DEF    12                   12
+STR-MID    31                   25
+DEF-GK     5                    3
+DEF-STR    24                   25
+DEF-DEF    43                   62
+DEF-MID    67                   113
+MID-GK     3                    1
+MID-STR    35                   29
+MID-DEF    61                   101
+MID-MID    54                   67

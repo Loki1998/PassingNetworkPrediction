@@ -1,0 +1,18 @@
+MatchID: 2014326
+Position  PFC Ludogorets  1945 Real Madrid CF
+GK-GK     0                   0
+GK-STR    2                   1
+GK-DEF    6                   9
+GK-MID    4                   5
+STR-GK    0                   0
+STR-STR   8                   6
+STR-DEF   12                  10
+STR-MID   19                  21
+DEF-GK    8                   6
+DEF-STR   21                  13
+DEF-DEF   15                  78
+DEF-MID   47                  92
+MID-GK    1                   0
+MID-STR   19                  38
+MID-DEF   45                  91
+MID-MID   35                  97

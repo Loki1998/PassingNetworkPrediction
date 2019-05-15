@@ -1,0 +1,75 @@
+MatchID: 2014318
+Position  FC Basel 1893       Real Madrid CF
+GK-GK     0                   0
+GK-STR    1                   3
+GK-DEF    21                  20
+GK-MID    8                   5
+STR-GK    0                   0
+STR-STR   8                   5
+STR-DEF   6                   15
+STR-MID   28                  27
+DEF-GK    10                  13
+DEF-STR   15                  19
+DEF-DEF   56                  88
+DEF-MID   86                  108
+MID-GK    3                   1
+MID-STR   41                  38
+MID-DEF   72                  94
+MID-MID   115                 93
+
+MatchID: 2014326
+Position  PFC Ludogorets 1945 Real Madrid CF
+GK-GK     0                   0
+GK-STR    2                   1
+GK-DEF    6                   9
+GK-MID    4                   5
+STR-GK    0                   0
+STR-STR   8                   6
+STR-DEF   12                  10
+STR-MID   19                  21
+DEF-GK    8                   6
+DEF-STR   21                  13
+DEF-DEF   15                  78
+DEF-MID   47                  92
+MID-GK    1                   0
+MID-STR   19                  38
+MID-DEF   45                  91
+MID-MID   35                  97
+
+MatchID: 2014342
+Position  Liverpool FC        Real Madrid CF
+GK-GK     0                   0
+GK-STR    0                   2
+GK-DEF    15                  9
+GK-MID    5                   2
+STR-GK    0                   0
+STR-STR   0                   18
+STR-DEF   4                   21
+STR-MID   10                  48
+DEF-GK    7                   4
+DEF-STR   2                   27
+DEF-DEF   34                  47
+DEF-MID   124                 101
+MID-GK    3                   2
+MID-STR   9                   65
+MID-DEF   104                 94
+MID-MID   181                 149
+
+MatchID: 2014366
+Position  Liverpool FC        Real Madrid CF
+GK-GK     0                   0
+GK-STR    0                   1
+GK-DEF    11                  16
+GK-MID    5                   3
+STR-GK    0                   0
+STR-STR   0                   23
+STR-DEF   8                   12
+STR-MID   10                  37
+DEF-GK    11                  10
+DEF-STR   10                  20
+DEF-DEF   38                  83
+DEF-MID   86                  124
+MID-GK    1                   1
+MID-STR   9                   60
+MID-DEF   88                  100
+MID-MID   130                 174
