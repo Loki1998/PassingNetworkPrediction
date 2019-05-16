@@ -1,4 +1,3 @@
-# Jade Huang
 # 1. Converts .xlsx/xls files in tables/ to .csv
 #    and outputs to csv/x.csv
 # 2. Parses csv to node/edge format
